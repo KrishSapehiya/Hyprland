@@ -7,7 +7,7 @@ body:
       description: Users cannot open issues. I want my issue to be closed.
       options:
         - label: Yes, I want this issue to be closed.
-          required: true
+          required: false
 
   - type: textarea
     id: body
